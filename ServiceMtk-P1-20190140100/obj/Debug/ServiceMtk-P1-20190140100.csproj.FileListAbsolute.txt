@@ -1,0 +1,7 @@
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\bin\Debug\ServiceMtk-P1-20190140100.dll.config
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\bin\Debug\ServiceMtk-P1-20190140100.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\bin\Debug\ServiceMtk-P1-20190140100.pdb
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\obj\Debug\ServiceMtk-P1-20190140100.csproj.AssemblyReference.cache
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\obj\Debug\ServiceMtk-P1-20190140100.csproj.CoreCompileInputs.cache
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\obj\Debug\ServiceMtk-P1-20190140100.dll
+C:\Users\PAVILON GAMING\Documents\Tugas Paw\ServiceMtk-P1-20190140100\ServiceMtk-P1-20190140100\obj\Debug\ServiceMtk-P1-20190140100.pdb
